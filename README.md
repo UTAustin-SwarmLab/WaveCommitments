@@ -3,7 +3,8 @@
 Repository for Private and Verifiable Speech-Agent Marketplaces
 
 ## Podcast
-https://github.com/user-attachments/assets/9e68040e-7195-42e0-aa32-07afa78cad33
+https://github.com/user-attachments/assets/fade88b8-4738-4e6c-b9e1-45599abf8865
+
 ## Overview
 
 ![assets/infographics.png](assets/infographics.png)
